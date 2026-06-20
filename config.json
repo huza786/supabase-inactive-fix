@@ -1,0 +1,8 @@
+[
+  {
+    "name": "My Supabase",
+    "supabase_url": "https://ypexaytfvdgvoqnzncan.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep_alive"
+  }
+]
